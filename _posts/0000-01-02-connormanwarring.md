@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Welcome to my first Git project!
+Git is **extremely** ~~intuitive~~ hard! 💯
 Use the left arrow to go back!
